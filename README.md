@@ -1,4 +1,4 @@
 # ZARA-Sales-Analysis-Dashboard_Power_BI
-A interactive Power BI dashboard on sales data ZARA. 
+A interactive Power BI dashboard on sales data of ZARA. 
 
 This repository contains a Power BI sales dashboard for analyzing Zara's sales data. The dataset encompasses comprehensive information on product sales across Zara stores over a specific time frame. Key attributes include product ID, product name, product category, price, sales volume, sales date, and store location. The dashboard leverages this data to identify sales trends, evaluate the performance of different product categories, assess the impact of promotional activities, and understand customer purchasing behaviors. These insights are invaluable for Zara's management to refine marketing strategies, optimize inventory management, and make data-driven decisions to boost revenue and profitability. The dashboard aims to provide a user-friendly interface for visualizing and interpreting sales data, facilitating better strategic planning and operational efficiency for Zara.
